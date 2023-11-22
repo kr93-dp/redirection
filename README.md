@@ -1,0 +1,2 @@
+# redirection
+redirection for blog
